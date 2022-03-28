@@ -99,4 +99,4 @@ Taha: Causality checks, notebooks preparation.
 
 Saad: Data analysis by speakers, data story.
 
-Omar: Data analysis by occupations, data story.
+Omar: Data analysis by occupations, data story
